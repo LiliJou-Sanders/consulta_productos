@@ -25,3 +25,13 @@ C:\Users\X\source\repos\PDV\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6
 C:\Users\X\source\repos\PDV\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.pdb
 C:\Users\X\source\repos\PDV\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.genruntimeconfig.cache
 C:\Users\X\source\repos\PDV\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\ref\WinFormProductoPDV.dll
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.Form1.resources
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.dll
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\refint\WinFormProductoPDV.dll
+C:\Users\Usuario\source\repos\consulta_productos\WinFormProductoPDV\WinFormProductoPDV\obj\Debug\net6.0-windows\WinFormProductoPDV.pdb

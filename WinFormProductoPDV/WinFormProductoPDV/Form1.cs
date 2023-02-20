@@ -1,4 +1,4 @@
-using MySql.Data.MySqlClient;
+
 using System.Runtime.Intrinsics.Arm;
 
 namespace WinFormProductoPDV
@@ -6,7 +6,7 @@ namespace WinFormProductoPDV
     public partial class Form1 : Form
     {
         //MysqlObjects
-        MySqlConnection con = new MySqlConnection("Server=localhost;Database=productos_pdv;Uid=root;Pwd=;");
+        MySqlCoonnection con = new MySqlConnection("Server=localhost;Database=productos_pdv;Uid=root;Pwd=;");
         MySqlCommand comando;
         //el obj para recibir datos de SELECT
         MySqlDataReader dr;
@@ -41,7 +41,7 @@ namespace WinFormProductoPDV
                 //pasamos cada renglon al DTGRID
                 while (dr.Read())
                 {
-                    //id - nombre - descripcion - codigo_barras - precio - imagen
+                    //id - nombre - codigo de barras - descripcion - precio - imagen
                     //0     1      2               3              4          5
                     var myString = dr.GetString(0); //The 0 stands for "the 0'th column", so the first column of the result.
                     dGridProductos.Rows.Add(new object[] {dr.GetInt16(0),
